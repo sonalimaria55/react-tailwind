@@ -73,7 +73,21 @@ index.css
 ### components
 ``` |<Route path="/About" element={<about/>}/>|  ```
 
+`Navbar.jsx`
+`import{Link} from 'react-router-dom'
 
+### LINK
+
+``` <Link to="/">Home</Link> 
+<Link to="/login">Login</Link>
+<Link to="/register">Register</Link>```
+
+
+```import Navbar from './components/Navbar.jsx ```
+
+
+### nav
+ <Navbar/>
 
 
 ![image alt](https://github.com/sonalimaria55/react-tailwind/blob/main/image/basicreact.png?raw=true)

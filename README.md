@@ -53,7 +53,7 @@ index.css
 
 ### step 12:
 
-|routing|
+|routing steps to include in the file app.jsx |
 |-----------------------------------------------------------------------------------|
 |<BrowserRouter>|
 |<Routes>|

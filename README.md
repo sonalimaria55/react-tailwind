@@ -29,6 +29,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Tailwind Search
 |Docs |
+|------------------------------------------------------------|
 |using vite 2nd link|
 |tailwindcss.com/docs/installation/using-vite|
 |terminal|2nd Link |npm install tailwindcss@tailwindcss/vite|

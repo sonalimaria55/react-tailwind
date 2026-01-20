@@ -17,8 +17,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # steps
 
-### step1 :♦️``` npm create vite@latest ```
-### step2 :♦️``` react-recipe '''
+### step1 :♦️``` npm create vite@latest      ```
+### step2 :♦️``` react-recipe     ```
 ###  `React `
 ###  `JavaScript `
 ###  `No`

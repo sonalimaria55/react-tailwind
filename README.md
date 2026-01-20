@@ -24,6 +24,28 @@ If you are developing a production application, we recommend using TypeScript wi
 ###  `No`
 ###  `Yes`
 
+### step3 :♦️cmd 
+### step4 :♦️code .
+
+## Tailwind Search
+|Docs |
+|using vite 2nd link|
+|tailwindcss.com/docs/installation/using-vite|
+|terminal|2nd Link |npm install tailwindcss@tailwindcss/vite|
+|import tailwindcss from '@tailwindcss/vite'|
+|plugins:[react(),tailwindcss()],})|
+|@import "tailwindcss";|
+### step 5:♦️clear 
+index.css
+#### add href='/src/index.css'
+
+### step6:♦️npm run dev
+
+### step7:♦️App.jsx
+### step8:♦️index.css
+
+### step9:rfc
+
 
 
 

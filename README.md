@@ -88,6 +88,9 @@ index.css
 
 ### nav
  <Navbar/>
+```
 
+
+### Browser view
 
 ![image alt](https://github.com/sonalimaria55/react-tailwind/blob/main/image/basicreact.png?raw=true)

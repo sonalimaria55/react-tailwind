@@ -47,6 +47,12 @@ index.css
 
 ### step9:rfc
 
+### step 10 :``` npm i react-router-dom ```
+
+### step 11: ``` import {BrowserRouter,Routes,Route} from 'react-router-dom' ```
+
+### step 12: |--------------------------------------|
+
 
 
 

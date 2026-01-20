@@ -54,12 +54,12 @@ index.css
 ### step 12:
 
 |routing|
-|---------------------------------------------------------------|
-|<BrowserRouter>                       |
-|<Routes>                              |
-|<Route path="/" element={<Home/>}/>   |
-|</Routes>                             |
-|</BrowserRouter>                      |
+|-----------------------------------------------------------------------------------|
+|<BrowserRouter>|
+|<Routes>|
+|<Route path="/" element={<Home/>}/>|
+|</Routes>|
+|</BrowserRouter>|
 
 ###
 
